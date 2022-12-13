@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Tomato",
+        "price": 9.99,
+        "img": "/images/tomato.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Orange",
+        "price": 4.99,
+        "img": "/images/orange.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Watermelon",
+        "price": 6.99,
+        "img": "/images/watermelon.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Strawberry",
+        "price": 12.99,
+        "img": "/images/strawberry.jpg"
+    }
+]
